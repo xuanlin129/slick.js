@@ -53,11 +53,11 @@ video {
 }
 
 .slick_01 .slick-prev:before {
-  background: url('./images/824_LP05_01_btn.png')no-repeat center/contain;
+  background: url('../images/824_LP05_01_btn.png')no-repeat center/contain;
 }
 
 .slick_01 .slick-next:before {
-  background: url('./images/824_LP05_01_btn2.png')no-repeat center/contain;
+  background: url('../images/824_LP05_01_btn2.png')no-repeat center/contain;
 }
 
 /* 輪播 list-dot */
