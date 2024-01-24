@@ -10,3 +10,10 @@ $('.slick_01').slick({
   // 輪播數量/次
   slidesToScroll: 1,
 });
+
+window.addEventListener('load', () => {
+  document.getElementById('loading').style.opacity = 0
+  setTimeout(() => {
+    document.getElementById('loading').style.display = 'none'
+  },3000)
+})
